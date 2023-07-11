@@ -1,5 +1,5 @@
 
- ![spacerocket](https://github.com/gabislera/NLW-Spacetime/assets/112272723/3df70999-c1cc-4c99-823e-fd8baac94107)
+![Captura de tela 2023-07-11 123251](https://github.com/gabislera/NLW-Spacetime/assets/112272723/42a60ca8-1c2f-48a0-b277-8ff55cb3133f)
 
 ## NLW-Spacetime
 
@@ -26,5 +26,17 @@ A time machine social network where you can login and post memories with text, i
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+
+
+## Local run
+
+/wev
+```bash
+  npm run dev
+```
+/server
+```bash
+    npm run dev
+```
 
 
